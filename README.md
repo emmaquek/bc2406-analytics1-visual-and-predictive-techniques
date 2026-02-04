@@ -6,7 +6,7 @@ Across team projects, visual analytics and predictive modelling were applied to 
 
 ---
 
-## Tools & Technologies used
+## Tools & Technologies Used
 
 - **RStudio** – primary development environment  
 - **R (Programming Language)**  
