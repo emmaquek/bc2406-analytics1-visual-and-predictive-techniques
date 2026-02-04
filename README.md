@@ -40,7 +40,7 @@ Exploratory visual analysis and regression-based modelling to examine salary dis
 ### 2. Diabetes Risk Prediction & Preventive Health Application (Team Project – Predictive Modelling)
 
 **Project Context:**  
-This project aligns with Singapore’s **Healthier SG** initiative and focuses on improving early awareness of diabetes risk. The objective was to develop a predictive model that estimates an individual’s likelihood of developing diabetes based on health and lifestyle indicators, and to communicate results in an accessible manner.
+This project aligns with Singapore’s Healthier SG initiative and focuses on improving early awareness of diabetes risk. The objective was to develop a **predictive model** that estimates an individual’s likelihood of developing diabetes based on health and lifestyle indicators, and to communicate results in an accessible manner.
 
 **My Contribution:**  
 Tree-based modelling and independently initiated the development of an interactive prototype application to operationalise the predictive model.
